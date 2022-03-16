@@ -2,11 +2,12 @@
 
 > Sample repo to build small pluggable component widgets
 
-# Demos:
+# To Run
 
-- *Simple Login* 🔑 [link](https://preact-habitat-inline.netlify.com/)
+1. yarn
+2. yarn run dev
 
-- *Youtube Players* ▶️ [link](https://preact-habitat-youtube.netlify.com/)
+Current widget has been put on the index.html, bust same can be done on any third party website.
 
 
 ## License
