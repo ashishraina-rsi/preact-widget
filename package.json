@@ -19,7 +19,7 @@
     "webpack"
   ],
   "license": "MIT",
-  "author": "Jason Miller <jason@developit.ca>",
+  "author": "ashish Raina",
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel": "^6.23.0",
