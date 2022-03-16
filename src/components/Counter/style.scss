@@ -1,0 +1,26 @@
+// widgets colors variables
+$beige: #f4f1ea;
+$yellow: #ffbb41;
+$black: #37394c;
+$white-sand: #faf8f5;
+
+.basebtn {
+  height: 40px;
+  width: 100%;
+  max-width: 230px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: 12px;
+  text-align: center;
+  line-height: 40px;
+  text-decoration: none;
+  border-radius: 3px;
+  color: white;
+    background-color: red;
+  &.default {
+    margin: 0px 0 15px 0;
+    display: block;
+  }
+}
+
+
